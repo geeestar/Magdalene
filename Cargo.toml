@@ -1,0 +1,6 @@
+[workspace]
+members=[
+    "mary",
+    "telos",
+    "kosmos",
+]
